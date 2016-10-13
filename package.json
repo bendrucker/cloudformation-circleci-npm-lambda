@@ -1,10 +1,10 @@
 {
-  "name": "cloudformation-circleci-lambda",
+  "name": "cloudformation-circleci-npm-lambda",
   "main": "index.js",
   "version": "1.0.0",
   "description": "AWS Lambda handler for managing CircleCI AWS credentials",
   "license": "MIT",
-  "repository": "bendrucker/cloudformation-circleci-lambda",
+  "repository": "bendrucker/cloudformation-circleci-npm-lambda",
   "author": {
     "name": "Ben Drucker",
     "email": "bvdrucker@gmail.com",
