@@ -1,6 +1,6 @@
 # cloudformation-circleci-npm-lambda [![Build Status](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda.svg?branch=master)](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda)
 
-> AWS Lambda handler for managing CircleCI AWS credentials
+> AWS Lambda handler for managing a CircleCI npm token
 
 
 ## Install
