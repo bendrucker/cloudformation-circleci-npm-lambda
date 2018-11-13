@@ -1,4 +1,4 @@
-# cloudformation-circleci-npm-lambda [![Build Status](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda.svg?branch=master)](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda)
+# cloudformation-circleci-npm-lambda [![Build Status](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda.svg?branch=master)](https://travis-ci.org/bendrucker/cloudformation-circleci-npm-lambda) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/cloudformation-circleci-npm-lambda.svg)](https://greenkeeper.io/)
 
 > AWS Lambda handler for managing a CircleCI npm token
 
